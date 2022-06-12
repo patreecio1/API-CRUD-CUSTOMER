@@ -1,0 +1,13 @@
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\bin\Release\netcoreapp3.1\MyTodoWebApi.Data.deps.json
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\bin\Release\netcoreapp3.1\MyTodoWebApi.Data.runtimeconfig.json
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\bin\Release\netcoreapp3.1\MyTodoWebApi.Data.runtimeconfig.dev.json
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\bin\Release\netcoreapp3.1\MyTodoWebApi.Data.dll
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\bin\Release\netcoreapp3.1\MyTodoWebApi.Data.pdb
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.csproj.AssemblyReference.cache
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.AssemblyInfoInputs.cache
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.AssemblyInfo.cs
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.dll
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.pdb
+C:\Users\Ezekiel.Lucky\source\repos\MyTodoAppWebApi\MyTodoWebApi.Data\obj\Release\netcoreapp3.1\MyTodoWebApi.Data.genruntimeconfig.cache
